@@ -8,7 +8,15 @@
 
 ###
 
-<p align="left">About Me :-<br>📚 I'm currently learning Advanced NLP, Machine Learning, and AWS Cloud  <br>🎮 Hobbies:<br>- PC and Mobile gaming<br>- Building small projects<br>- Exploring new technologies</p>
+<p align="left">About Me :-<br>
+📚 I'm currently learning Advanced NLP, Machine Learning, and AWS Cloud<br>
+🎮 Hobbies:<br>
+- PC and Mobile gaming<br>
+- Watching anime<br>
+- Reading manga/manhwa<br>
+- Building small projects<br>
+- Exploring new technologies
+</p>
 
 ###
 
