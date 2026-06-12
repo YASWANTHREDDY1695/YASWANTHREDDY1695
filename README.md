@@ -23,13 +23,6 @@ I am a Computer Science undergraduate specializing in **AI/ML Engineering** and 
 
 ---
 
-### 🏆 Certifications
-
-* ☁️ **AWS Certified Cloud Practitioner**
-* ☕ **Oracle Certified Professional: Java SE 17 Developer**
-* ⚡ **Salesforce Developer Agentblazer Champion**
-
----
 
 ### 📂 Featured Projects
 
