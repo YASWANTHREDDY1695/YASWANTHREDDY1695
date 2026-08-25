@@ -1,6 +1,6 @@
 # Hi there, I'm Avula Sai Praneeth Yaswanth Reddy! 👋
 
-I am a Computer Science undergraduate specializing in **AI/ML Engineering**, **Retrieval-Augmented Generation (RAG)**, and **Cloud Architecture**. I focus on building multi-agent AI systems, serverless cloud-native pipelines, and enterprise generative AI solutions.
+I am a Computer Science undergraduate specializing in **AI/ML Engineering**, and **Cloud Architecture**. I focus on building multi-agent AI systems, serverless cloud-native pipelines, and enterprise generative AI solutions.
 
 ---
 
